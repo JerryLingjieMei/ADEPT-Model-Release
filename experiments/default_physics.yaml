@@ -1,0 +1,3 @@
+ANNOTATION_FOLDER:
+OBSERVATION_FOLDER: output/default_derender/inference/annotated_physics_human
+OUTPUT_FOLDER: output/default_physics
