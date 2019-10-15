@@ -78,7 +78,7 @@ to reflect the id of your machine. With that in hand, you may speed up physical 
     
     ```bash
     # Fill in the TRAIN_SET_FOLDER with the training set folder
-    python3 dataset/makers/make_proposal.py -i ${TRAIN_SET_FOLDER} -o data/annotated_ann.json
+    python3 dataset/makers/make_proposal.py -i ${TRAIN_SET_FOLDER} -o data/annotated_ann.json -s output/default_detection/inference/physics/segm.json
     python3 tools/train_net.py --config_file experiments/default_derender.yaml
     ```
     
@@ -86,7 +86,7 @@ to reflect the id of your machine. With that in hand, you may speed up physical 
     
     ```bash
     # Fill in the HUMAN_TEST_SET_FOLDER with the human set folder
-    python3 dataset/makers/make_proposal.py -i ${HUMAN_TEST_SET_FOLDER} -o data/annotated_ann.json
+    python3 dataset/makers/make_proposal.py -i ${HUMAN_TEST_SET_FOLDER} -o data/annotated_human_ann.json -s output/default_detection/inference/physics_human/segm.json
     python3 tools/test_net.py --config_file experiments/default_derender.yaml
     ```
     
