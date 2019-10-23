@@ -71,7 +71,8 @@ FONT = get_font()
 
 
 def get_host_id():
-    return int(socket.gethostname()[-2:]) - 1
+    return 0
+    # return int(socket.gethostname()[-2:]) - 1
 
 
 def mask2contour(mask):

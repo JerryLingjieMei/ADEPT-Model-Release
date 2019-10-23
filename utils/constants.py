@@ -1,7 +1,7 @@
 import os
 import random
 
-CONTENT_FOLDER = ""
+CONTENT_FOLDER = "/root/adept-model/"
 
 WIDTH = 480
 HEIGHT = 320
@@ -11,6 +11,9 @@ AREA_MIN_THRESHOLD = 50
 CATEGORY2ID = {
     "Sphere": 1,
     "Occluder": 2
+    "Cube":1
+    "Cone":1
+    "Cylinder":1
 }
 
 TERMS = ["type", "color", "location", "velocity", "rotation", "scale"]

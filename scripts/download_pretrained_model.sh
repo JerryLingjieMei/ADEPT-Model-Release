@@ -12,7 +12,7 @@ echo 'output/default-detection/ADEPT-detection-0050000.pth' > output/default_det
 
 echo "Downloading pre-trained weights for derender"
 
-URL=http://physadept.csail.mit.edu//assets/ADEPT-derender-0050000.tar.gz
+URL=http://physadept.csail.mit.edu/assets/ADEPT-derender-0050000.tar.gz
 echo ${URL}
 curl ${URL} | tar -zx -C output/default_derender
 echo 'output/default-derender/ADEPT-detection-0050000.pth' > output/default_derender/last_checkpoint.txt
