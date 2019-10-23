@@ -54,11 +54,13 @@ to reflect the id of your machine. With that in hand, you may speed up physical 
 
 ### Experiments
 
-1. Collect COCO annotations for the training set,
+1. Collect COCO annotations for the training set, and the human test set:
 
     ```bash
     # Fill in the TRAIN_SET_FOLDER with the training set folder
     python3 dataset/makers/make_coco.py -i ${TRAIN_SET_FOLDER} -o data/ann.json
+    # Fill in the HUMAN_TEST_SET_FOLDER with the human set folder
+    python3 dataset/makers/make_coco.py -i ${HUMAN_TEST_SET_FOLDER} -o data/human_ann.json
     ```
     
     Then train the detection part of perception on the training set and test on training set and human test set,

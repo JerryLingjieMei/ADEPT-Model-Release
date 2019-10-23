@@ -8,8 +8,12 @@ HEIGHT = 320
 
 AREA_MIN_THRESHOLD = 50
 
+# Sphere, Cube, Cylinder, Cones are not occluders
 CATEGORY2ID = {
     "Sphere": 1,
+    "Cube": 1,
+    "Cylinder": 1,
+    "Cone": 1,
     "Occluder": 2
     "Cube":1
     "Cone":1
