@@ -1,0 +1,11 @@
+tensorboardX
+numpy
+easydict
+pillow
+scikit-image
+matplotlib
+pycocotools
+tqdm
+pybullet
+yacs
+pybullet

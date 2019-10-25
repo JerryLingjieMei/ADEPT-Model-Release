@@ -201,4 +201,5 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
-.idea
+.ideasftp-config.json
+s**ftp-config.json

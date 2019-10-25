@@ -5,8 +5,8 @@ from easydict import EasyDict
 
 
 class DatasetCatalog(object):
-    TRAIN_ROOT = ""
-    HUMAN_ROOT = ""
+    TRAIN_ROOT = "/root/adept-model/data_sample/train_sample/"
+    HUMAN_ROOT = "/root/adept-model/data_sample/human_sample/"
 
     @staticmethod
     def get(name, args=None):
