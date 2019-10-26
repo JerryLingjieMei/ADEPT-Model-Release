@@ -122,10 +122,12 @@ class ObjectProposalDataset(torch.utils.data.dataset.Dataset):
         else:
             attributes = None
 
-        return {"img_tuple": img_tuple,
-                "attributes": attributes,
+        data = {"img_tuple": img_tuple,
                 "basename": basename,
                 "index": index}
+        if attributes is not None:
+            data["attributes"] = attributes
+        return data
 
     def __len__(self):
         return len(self.masks)
