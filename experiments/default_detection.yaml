@@ -41,7 +41,7 @@ SOLVER:
   STEPS: (2,5) #(30000, 40000)
   MAX_ITER: 10 #50000
 TEST:
-  IMS_PER_BATCH: 64
+  IMS_PER_BATCH: 16
 PATHS_CATALOG: tools/paths_catalog.py
 OUTPUT_DIR: output/default_detection
 

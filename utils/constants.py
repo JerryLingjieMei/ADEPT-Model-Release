@@ -15,9 +15,6 @@ CATEGORY2ID = {
     "Cylinder": 1,
     "Cone": 1,
     "Occluder": 2
-    "Cube":1
-    "Cone":1
-    "Cylinder":1
 }
 
 TERMS = ["type", "color", "location", "velocity", "rotation", "scale"]

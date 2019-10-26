@@ -17,7 +17,7 @@ ENV PATH=/root/miniconda/bin:$PATH
 
 RUN conda init bash
 
-RUN conda create -y -n adept-model python=3.7;
+RUN conda create -y -n adept-model python=3.6.9;
 
 ENV CONDA_DEFAULT_ENV=adept-model
 ENV CONDA_PREFIX=/root/miniconda/envs/$CONDA_DEFAULT_ENV
@@ -36,7 +36,9 @@ ARG CUDA
 # RUN conda install pytorch-nightly=1.0.0.dev20190328 cudatoolkit=${CUDA} \
 #     torchvision==0.2.1 -c pytorch
 
-RUN conda install pytorch=1.1 cudatoolkit=${CUDA} \
+# conda install pytorch-nightly=1.0.0.dev20190328 torchvision==0.2.1 -c pytorch
+
+RUN conda install pytorch-nightly=1.0.0.dev20190328 cudatoolkit=${CUDA} \
     torchvision==0.2.1 -c pytorch
 
 # RUN apt-get install -y apt-utils git curl ca-certificates bzip2 cmake tree htop bmon iotop g++ \

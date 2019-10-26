@@ -41,6 +41,7 @@ def test(cfg, args):
     checkpointer.load()
 
     test_set = DatasetCatalog.get(cfg.DATASETS.TEST, args)
+    print(test_set.__getitem__(0))
     test_loader = DataLoader(test_set, cfg.SOLVER.IMS_PER_BATCH,
                              num_workers=cfg.DATALOADER.NUM_WORKERS, shuffle=False)
     summary_writer = SummaryWriter(log_dir=os.path.join(output_dir, "summary"))

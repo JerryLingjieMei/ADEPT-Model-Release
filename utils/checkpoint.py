@@ -81,6 +81,7 @@ class Checkpointer(object):
 
     def _load_file(self, f):
         # load native detectron.pytorch checkpoint
+        print(f)
         loaded = torch.load(f, map_location=torch.device("cpu"))
         if "models" not in loaded:
             loaded = dict(model=loaded)

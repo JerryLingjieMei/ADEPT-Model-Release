@@ -23,10 +23,10 @@ sudo docker run -it -v $(dirname "$(pwd)"):/root/adept-model --gpus all adept-mo
 ```sh
 git clone https://github.com/facebookresearch/maskrcnn-benchmark.git \
  && cd maskrcnn-benchmark \
- && git checkout c5ca36fc644dfc1d3dd4ad15739bf6bb4df72d72
- # && git checkout 192261db14d596da52905e91dc608bd4315552dc \ #old one
+ && git checkout 192261db14d596da52905e91dc608bd4315552dc \
  && python setup.py build develop
 ```
+<!-- # && git checkout c5ca36fc644dfc1d3dd4ad15739bf6bb4df72d72  \ #Jerry's one -->
 
 # Download Pretrained Weights
 
@@ -48,10 +48,19 @@ train on single GPU
 ```sh
 python -m tools.detection_train_net --config_file experiments/default_detection.yaml
 ```
-test
+test and create segmentation  maps
 ```sh
 python -m tools.detection_test_net --config_file experiments/default_detection.yaml
 ```
+
+Prepare data to create object proposals
+```sh
+python -m dataset.makers.make_proposal -i /root/adept-model/data_sample/human_sample -o data/annotated_human_ann.json -s output/default_detection/inference/physics_human/segm.json
+```
+test the derenderer to create object proposals in the human test set
+```sh
+python -m tools.test_net --config_file experiments/default_derender.yaml
+``
 
 multiple gpu
 ```sh
@@ -62,8 +71,4 @@ python -m torch.distributed.launch --nproc_per_node=$NGPUS tools.detection_train
 
 ```sh
 python -m tools.run_physics --config_file experiments/default_physics.yaml
-```
-
-```sh
-python -m dataset.makers.make_proposal -i /root/adept-model/data_sample/human_sample -o data/annotated_human_ann.json -s output/default_detection/inference/physics_human/segm.json
 ```
