@@ -112,6 +112,3 @@ RUN cat /.bash_mods >> /root/.bashrc; \
 
 ENTRYPOINT /bin/bash
 
-ENV CUDA_VISIBLE_DEVICES=0 
-RUN python -c "import torch; print(torch.cuda.is_available())"
-
