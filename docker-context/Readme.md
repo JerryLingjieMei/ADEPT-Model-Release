@@ -1,8 +1,8 @@
 # Prerequisites
 
-- GPU
-- Unix based system
-- Docker
+- GPU (2 tesla p100 16gb)
+- Unix based system (Ubuntu 16.04.6 LTS)
+- Docker 19.03.1
 
 # Build the docker container
 
@@ -20,6 +20,8 @@ sudo docker run -it -v $(dirname "$(pwd)"):/root/adept-model --gpus all adept-mo
 
 # Finish Instalation
 
+The GPU is not  visible during the  container building so it's necessary to compile maskRCNN after starting the container.
+
 ```sh
 git clone https://github.com/facebookresearch/maskrcnn-benchmark.git \
  && cd maskrcnn-benchmark \
@@ -28,13 +30,26 @@ git clone https://github.com/facebookresearch/maskrcnn-benchmark.git \
 ```
 <!-- # && git checkout c5ca36fc644dfc1d3dd4ad15739bf6bb4df72d72  \ #Jerry's one -->
 
-# Download Pretrained Weights
+# Run the pipeline  with pre-trained weights on a test set
 
-inside  the  containers bash
+
+## 1.1 Download Pretrained Weights
+
+inside  the  containers bash:
 ```sh
 cd /root/adept-model/;
 ./scripts/download_pretrained_model.sh
 ```
+
+## 1.2 set the directory  for the test  set
+
+```sh
+export TEST_SET = /root/adept-model/data_sample/human_sample
+```
+
+## 1.3 create  a  json file with the format with coco annotations
+
+## 1.3 
 # TODO
 figure  out how to put the data and set it up elegantly
 
