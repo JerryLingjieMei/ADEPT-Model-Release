@@ -5,7 +5,7 @@ camera:
     camera_theta: 20
 case_name: human_block_0051_0
 scene:
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.00s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -51,7 +51,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.04s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -97,7 +97,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.08s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -143,7 +143,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.12s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -189,7 +189,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.16s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -235,7 +235,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.20s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -281,7 +281,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.24s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -327,7 +327,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.28s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -373,7 +373,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.32s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -419,7 +419,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.36s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -465,7 +465,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.40s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -511,7 +511,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.44s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -557,7 +557,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.48s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -603,7 +603,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.52s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -649,7 +649,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.56s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -695,7 +695,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.60s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -741,7 +741,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.64s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -787,7 +787,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.68s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -833,7 +833,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.72s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -879,7 +879,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.76s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -925,7 +925,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.80s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -971,7 +971,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.84s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1017,7 +1017,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.88s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1063,7 +1063,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.92s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1109,7 +1109,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_000.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_000.96s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1155,7 +1155,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.00s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1201,7 +1201,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.04s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1247,7 +1247,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.08s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1293,7 +1293,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.12s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1339,7 +1339,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.16s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1385,7 +1385,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.20s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1431,7 +1431,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.24s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1477,7 +1477,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.28s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1523,7 +1523,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.32s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1569,7 +1569,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.36s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1615,7 +1615,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.40s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1661,7 +1661,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.44s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1707,7 +1707,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.48s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1753,7 +1753,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.52s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1799,7 +1799,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.56s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1845,7 +1845,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.60s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1891,7 +1891,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.64s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1937,7 +1937,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.68s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -1983,7 +1983,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.72s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -2029,7 +2029,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.76s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -2075,7 +2075,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.80s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -2121,7 +2121,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.84s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -2167,7 +2167,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.88s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -2213,7 +2213,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.92s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -2259,7 +2259,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_001.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_001.96s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -2305,7 +2305,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.00s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: red
@@ -2351,7 +2351,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.04s.png
     objects:
     -   angular_velocity: [0.02434515580534935, 0.024345068261027336, 3.1257751942348477e-10]
         color: red
@@ -2397,7 +2397,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.08s.png
     objects:
     -   angular_velocity: [0.022261159494519234, 0.022261081263422966, 4.862494296098419e-10]
         color: red
@@ -2443,7 +2443,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.12s.png
     objects:
     -   angular_velocity: [0.022082168608903885, 0.022082088515162468, 5.910109068807401e-10]
         color: red
@@ -2489,7 +2489,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.16s.png
     objects:
     -   angular_velocity: [0.022353988140821457, 0.02235390804708004, 5.054401341908488e-10]
         color: red
@@ -2535,7 +2535,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.20s.png
     objects:
     -   angular_velocity: [0.022663118317723274, 0.022663036361336708, 5.09448372376653e-10]
         color: red
@@ -2581,7 +2581,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.24s.png
     objects:
     -   angular_velocity: [0.022912293672561646, 0.02291221171617508, 5.115243784103995e-10]
         color: red
@@ -2627,7 +2627,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.28s.png
     objects:
     -   angular_velocity: [0.023093927651643753, 0.023093845695257187, 5.102945843660223e-10]
         color: red
@@ -2673,7 +2673,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.32s.png
     objects:
     -   angular_velocity: [0.023221349343657494, 0.023221265524625778, 4.301901612713266e-10]
         color: red
@@ -2719,7 +2719,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.36s.png
     objects:
     -   angular_velocity: [0.023309387266635895, 0.02330930344760418, 4.397088804175553e-10]
         color: red
@@ -2765,7 +2765,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.40s.png
     objects:
     -   angular_velocity: [0.023369884118437767, 0.02336980029940605, 4.725494995305723e-10]
         color: red
@@ -2811,7 +2811,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.44s.png
     objects:
     -   angular_velocity: [0.02341141179203987, 0.023411327973008156, 4.816460008605361e-10]
         color: red
@@ -2857,7 +2857,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.48s.png
     objects:
     -   angular_velocity: [0.02343994565308094, 0.023439861834049225, 5.50561485290757e-10]
         color: red
@@ -2903,7 +2903,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.52s.png
     objects:
     -   angular_velocity: [0.02345958538353443, 0.023459501564502716, 4.901216654751295e-10]
         color: red
@@ -2949,7 +2949,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.56s.png
     objects:
     -   angular_velocity: [0.023473132401704788, 0.023473048582673073, 5.295711091868327e-10]
         color: red
@@ -2995,7 +2995,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.60s.png
     objects:
     -   angular_velocity: [0.02348249964416027, 0.023482415825128555, 4.952316334794205e-10]
         color: red
@@ -3041,7 +3041,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.64s.png
     objects:
     -   angular_velocity: [0.02348898909986019, 0.023488905280828476, 5.216662102291991e-10]
         color: red
@@ -3087,7 +3087,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.68s.png
     objects:
     -   angular_velocity: [0.02349349483847618, 0.023493411019444466, 5.489156351679014e-10]
         color: red
@@ -3133,7 +3133,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.72s.png
     objects:
     -   angular_velocity: [0.023496629670262337, 0.023496543988585472, 5.50025969214829e-10]
         color: red
@@ -3179,7 +3179,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.76s.png
     objects:
     -   angular_velocity: [0.023498814553022385, 0.02349872887134552, 4.785170037990838e-10]
         color: red
@@ -3225,7 +3225,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.80s.png
     objects:
     -   angular_velocity: [0.023500340059399605, 0.02350025437772274, 4.825203570035796e-10]
         color: red
@@ -3271,7 +3271,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.84s.png
     objects:
     -   angular_velocity: [0.023501407355070114, 0.02350132167339325, 3.50137724369759e-10]
         color: red
@@ -3317,7 +3317,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.88s.png
     objects:
     -   angular_velocity: [0.023502154275774956, 0.02350206859409809, 3.2717742404209105e-10]
         color: red
@@ -3363,7 +3363,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.92s.png
     objects:
     -   angular_velocity: [0.02350267954170704, 0.023502593860030174, 2.771637641618696e-10]
         color: red
@@ -3409,7 +3409,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_002.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_002.96s.png
     objects:
     -   angular_velocity: [0.023503046482801437, 0.023502960801124573, 2.32304203651168e-10]
         color: red
@@ -3455,7 +3455,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.00s.png
     objects:
     -   angular_velocity: [0.02350330539047718, 0.023503219708800316, 1.8614763896973585e-10]
         color: red
@@ -3501,7 +3501,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.04s.png
     objects:
     -   angular_velocity: [0.023503489792346954, 0.02350340411067009, 6.020477172352656e-11]
         color: red
@@ -3547,7 +3547,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.08s.png
     objects:
     -   angular_velocity: [0.02350361831486225, 0.023503532633185387, 9.839249207055367e-12]
         color: red
@@ -3593,7 +3593,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.12s.png
     objects:
     -   angular_velocity: [0.023503709584474564, 0.02350362204015255, 1.2812466365641484e-11]
         color: red
@@ -3639,7 +3639,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.16s.png
     objects:
     -   angular_velocity: [0.023503772914409637, 0.023503685370087624, -3.732289650948406e-12]
         color: red
@@ -3685,7 +3685,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.20s.png
     objects:
     -   angular_velocity: [0.023503819480538368, 0.023503731936216354, -1.0394202859531632e-10]
         color: red
@@ -3731,7 +3731,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.24s.png
     objects:
     -   angular_velocity: [0.023503849282860756, 0.023503761738538742, -1.1524065035573017e-10]
         color: red
@@ -3777,7 +3777,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.28s.png
     objects:
     -   angular_velocity: [0.023503873497247696, 0.023503784090280533, -1.712225916605803e-10]
         color: red
@@ -3823,7 +3823,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.32s.png
     objects:
     -   angular_velocity: [0.02350388839840889, 0.023503800854086876, -1.3306317159234027e-10]
         color: red
@@ -3869,7 +3869,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.36s.png
     objects:
     -   angular_velocity: [0.023503901436924934, 0.02350381202995777, -1.941739546929e-10]
         color: red
@@ -3915,7 +3915,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.40s.png
     objects:
     -   angular_velocity: [0.02350390888750553, 0.023503819480538368, -1.9001789031136695e-10]
         color: red
@@ -3961,7 +3961,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.44s.png
     objects:
     -   angular_velocity: [0.023503916338086128, 0.023503825068473816, -1.2756949663295103e-10]
         color: red
@@ -4007,7 +4007,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.48s.png
     objects:
     -   angular_velocity: [0.023503920063376427, 0.023503828793764114, -1.0420481144635119e-10]
         color: red
@@ -4053,7 +4053,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.52s.png
     objects:
     -   angular_velocity: [0.023503923788666725, 0.023503830656409264, -6.011548203677108e-11]
         color: red
@@ -4099,7 +4099,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.56s.png
     objects:
     -   angular_velocity: [0.023503927513957024, 0.023503834381699562, -8.033723686295957e-11]
         color: red
@@ -4145,7 +4145,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.60s.png
     objects:
     -   angular_velocity: [0.023503927513957024, 0.023503832519054413, -1.1839094982146747e-10]
         color: red
@@ -4191,7 +4191,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.64s.png
     objects:
     -   angular_velocity: [0.023503929376602173, 0.023503832519054413, -1.2444943686684695e-10]
         color: red
@@ -4237,7 +4237,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.68s.png
     objects:
     -   angular_velocity: [0.023503931239247322, 0.023503832519054413, -2.6342239500820597e-10]
         color: red
@@ -4283,7 +4283,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.72s.png
     objects:
     -   angular_velocity: [0.023503931239247322, 0.023503832519054413, -4.807669817807891e-10]
         color: red
@@ -4329,7 +4329,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.76s.png
     objects:
     -   angular_velocity: [0.02350393310189247, 0.023503830656409264, -5.561854865554494e-10]
         color: red
@@ -4375,7 +4375,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.80s.png
     objects:
     -   angular_velocity: [0.02350393496453762, 0.023503830656409264, -6.249381012679578e-10]
         color: red
@@ -4421,7 +4421,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.84s.png
     objects:
     -   angular_velocity: [0.02350393868982792, 0.023503830656409264, -7.377651267681529e-10]
         color: red
@@ -4467,7 +4467,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.88s.png
     objects:
     -   angular_velocity: [0.02350393868982792, 0.023503828793764114, -8.543025176166452e-10]
         color: red
@@ -4513,7 +4513,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.92s.png
     objects:
     -   angular_velocity: [0.023503940552473068, 0.023503826931118965, -1.0333865985145962e-09]
         color: red
@@ -4559,7 +4559,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_003.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_003.96s.png
     objects:
     -   angular_velocity: [0.023503942415118217, 0.023503825068473816, -1.2017341566306072e-09]
         color: red
@@ -4605,7 +4605,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.00s.png
     objects:
     -   angular_velocity: [0.023503944277763367, 0.023503823205828667, -1.466408772188288e-09]
         color: red
@@ -4651,7 +4651,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.04s.png
     objects:
     -   angular_velocity: [0.023503946140408516, 0.023503819480538368, -1.6251284762347495e-09]
         color: red
@@ -4697,7 +4697,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.08s.png
     objects:
     -   angular_velocity: [0.023503949865698814, 0.02350381761789322, -1.945420047277935e-09]
         color: red
@@ -4743,7 +4743,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.12s.png
     objects:
     -   angular_velocity: [0.023503951728343964, 0.02350381575524807, -2.276999699901694e-09]
         color: red
@@ -4789,7 +4789,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.16s.png
     objects:
     -   angular_velocity: [0.023503955453634262, 0.02350381202995777, -2.6753765869358404e-09]
         color: red
@@ -4835,7 +4835,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.20s.png
     objects:
     -   angular_velocity: [0.02350396104156971, 0.023503808304667473, -3.051595864889123e-09]
         color: red
@@ -4881,7 +4881,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.24s.png
     objects:
     -   angular_velocity: [0.023503964766860008, 0.023503804579377174, -3.4618010680276257e-09]
         color: red
@@ -4927,7 +4927,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.28s.png
     objects:
     -   angular_velocity: [0.023503968492150307, 0.023503798991441727, -4.040169532260052e-09]
         color: red
@@ -4973,7 +4973,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.32s.png
     objects:
     -   angular_velocity: [0.023503974080085754, 0.02350379340350628, -4.704397760235679e-09]
         color: red
@@ -5019,7 +5019,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.36s.png
     objects:
     -   angular_velocity: [0.023503979668021202, 0.02350378781557083, -5.294644278563965e-09]
         color: red
@@ -5065,7 +5065,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.40s.png
     objects:
     -   angular_velocity: [0.023503988981246948, 0.023503780364990234, -6.048801903801859e-09]
         color: red
@@ -5111,7 +5111,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.44s.png
     objects:
     -   angular_velocity: [0.023503996431827545, 0.023503772914409637, -6.776823102683238e-09]
         color: red
@@ -5157,7 +5157,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.48s.png
     objects:
     -   angular_velocity: [0.023504003882408142, 0.02350376360118389, -7.74498243316657e-09]
         color: red
@@ -5203,7 +5203,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.52s.png
     objects:
     -   angular_velocity: [0.023504015058279037, 0.023503754287958145, -8.78236328105686e-09]
         color: red
@@ -5249,7 +5249,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.56s.png
     objects:
     -   angular_velocity: [0.023504026234149933, 0.02350374311208725, -9.84835502038095e-09]
         color: red
@@ -5295,7 +5295,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.60s.png
     objects:
     -   angular_velocity: [0.023504039272665977, 0.023503730073571205, -1.1147672118738683e-08]
         color: red
@@ -5341,7 +5341,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.64s.png
     objects:
     -   angular_velocity: [0.023504052311182022, 0.02350371517241001, -1.2609215893633063e-08]
         color: red
@@ -5387,7 +5387,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.68s.png
     objects:
     -   angular_velocity: [0.023504069074988365, 0.023503698408603668, -1.4226380962156782e-08]
         color: red
@@ -5433,7 +5433,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.72s.png
     objects:
     -   angular_velocity: [0.023504087701439857, 0.023503681644797325, -1.5975874845253202e-08]
         color: red
@@ -5479,7 +5479,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.76s.png
     objects:
     -   angular_velocity: [0.0235041081905365, 0.023503661155700684, -1.8169789228750233e-08]
         color: red
@@ -5525,7 +5525,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.80s.png
     objects:
     -   angular_velocity: [0.02350413240492344, 0.023503638803958893, -2.0442749715243735e-08]
         color: red
@@ -5571,7 +5571,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.84s.png
     objects:
     -   angular_velocity: [0.02350415661931038, 0.023503610864281654, -2.3132741944209556e-08]
         color: red
@@ -5617,7 +5617,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.88s.png
     objects:
     -   angular_velocity: [0.023504186421632767, 0.023503581061959267, -2.6133070818445958e-08]
         color: red
@@ -5663,7 +5663,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.92s.png
     objects:
     -   angular_velocity: [0.023504219949245453, 0.02350354939699173, -2.953389710569354e-08]
         color: red
@@ -5709,7 +5709,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_004.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_004.96s.png
     objects:
     -   angular_velocity: [0.023504257202148438, 0.023503512144088745, -3.336410614451779e-08]
         color: red
@@ -5755,7 +5755,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.00s.png
     objects:
     -   angular_velocity: [-1.3916083574295044, 0.9345833659172058, -15.836576461791992]
         color: red
@@ -5801,7 +5801,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.04s.png
     objects:
     -   angular_velocity: [2.3479208946228027, -0.6242314577102661, -3.1121315956115723]
         color: red
@@ -5847,7 +5847,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.08s.png
     objects:
     -   angular_velocity: [1.6319602727890015, -0.648239254951477, -3.0406172275543213]
         color: red
@@ -5893,7 +5893,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.12s.png
     objects:
     -   angular_velocity: [1.6992584466934204, -0.5013923645019531, -3.0047385692596436]
         color: red
@@ -5939,7 +5939,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.16s.png
     objects:
     -   angular_velocity: [1.7799060344696045, -0.3588917553424835, -2.9573845863342285]
         color: red
@@ -5985,7 +5985,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.20s.png
     objects:
     -   angular_velocity: [1.872817039489746, -0.21796053647994995, -2.9057376384735107]
         color: red
@@ -6031,7 +6031,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.24s.png
     objects:
     -   angular_velocity: [1.9716311693191528, -0.0786113366484642, -2.848310947418213]
         color: red
@@ -6077,7 +6077,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.28s.png
     objects:
     -   angular_velocity: [2.0706541538238525, 0.05549188330769539, -2.779179811477661]
         color: red
@@ -6123,7 +6123,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.32s.png
     objects:
     -   angular_velocity: [2.1693902015686035, 0.18364332616329193, -2.69865083694458]
         color: red
@@ -6169,7 +6169,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.36s.png
     objects:
     -   angular_velocity: [2.2673425674438477, 0.3051629066467285, -2.6070897579193115]
         color: red
@@ -6215,7 +6215,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.40s.png
     objects:
     -   angular_velocity: [2.364014148712158, 0.41940003633499146, -2.5049219131469727]
         color: red
@@ -6261,7 +6261,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.44s.png
     objects:
     -   angular_velocity: [2.4589123725891113, 0.5257371068000793, -2.392629623413086]
         color: red
@@ -6307,7 +6307,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.48s.png
     objects:
     -   angular_velocity: [2.5515499114990234, 0.6235929727554321, -2.2707502841949463]
         color: red
@@ -6353,7 +6353,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.52s.png
     objects:
     -   angular_velocity: [2.6414475440979004, 0.7124266028404236, -2.1398744583129883]
         color: red
@@ -6399,7 +6399,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.56s.png
     objects:
     -   angular_velocity: [2.728137969970703, 0.791739821434021, -2.000643014907837]
         color: red
@@ -6445,7 +6445,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.60s.png
     objects:
     -   angular_velocity: [2.811166524887085, 0.861080527305603, -1.8537441492080688]
         color: red
@@ -6491,7 +6491,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.64s.png
     objects:
     -   angular_velocity: [2.8900952339172363, 0.9200453758239746, -1.6999105215072632]
         color: red
@@ -6537,7 +6537,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.68s.png
     objects:
     -   angular_velocity: [2.9645044803619385, 0.9682824611663818, -1.539915919303894]
         color: red
@@ -6583,7 +6583,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.72s.png
     objects:
     -   angular_velocity: [3.0339953899383545, 1.0054935216903687, -1.3745712041854858]
         color: red
@@ -6629,7 +6629,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.76s.png
     objects:
     -   angular_velocity: [3.098191976547241, 1.0314360857009888, -1.2047206163406372]
         color: red
@@ -6675,7 +6675,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.80s.png
     objects:
     -   angular_velocity: [3.1567442417144775, 1.0459250211715698, -1.0312374830245972]
         color: red
@@ -6721,7 +6721,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.84s.png
     objects:
     -   angular_velocity: [3.3664708137512207, 0.8179383277893066, -0.8368334174156189]
         color: red
@@ -6767,7 +6767,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.88s.png
     objects:
     -   angular_velocity: [3.4135985374450684, 0.8100559711456299, -0.6358241438865662]
         color: red
@@ -6813,7 +6813,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.92s.png
     objects:
     -   angular_velocity: [3.451880693435669, 0.7875183820724487, -0.43377360701560974]
         color: red
@@ -6859,7 +6859,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_005.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_005.96s.png
     objects:
     -   angular_velocity: [3.75722599029541, 3.975828170776367, -0.39915546774864197]
         color: red
@@ -6905,7 +6905,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.00s.png
     objects:
     -   angular_velocity: [3.8109121322631836, 3.923633337020874, -0.4083561599254608]
         color: red
@@ -6951,7 +6951,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.04s.png
     objects:
     -   angular_velocity: [3.8637735843658447, 3.8705520629882812, -0.41978582739830017]
         color: red
@@ -6997,7 +6997,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.08s.png
     objects:
     -   angular_velocity: [0.11839111149311066, 0.4406112730503082, -0.4002726376056671]
         color: red
@@ -7043,7 +7043,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.12s.png
     objects:
     -   angular_velocity: [-0.10420358180999756, -0.20817804336547852, -0.4013676643371582]
         color: red
@@ -7089,7 +7089,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.16s.png
     objects:
     -   angular_velocity: [-0.4645516276359558, -0.3936818838119507, -0.40148407220840454]
         color: red
@@ -7135,7 +7135,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.20s.png
     objects:
     -   angular_velocity: [-0.6475013494491577, -0.539130687713623, -0.401573121547699]
         color: red
@@ -7181,7 +7181,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.24s.png
     objects:
     -   angular_velocity: [-0.8417608141899109, -0.6819264888763428, -0.40178295969963074]
         color: red
@@ -7227,7 +7227,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.28s.png
     objects:
     -   angular_velocity: [0.2901381254196167, 0.3347722589969635, -0.40058621764183044]
         color: red
@@ -7273,7 +7273,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.32s.png
     objects:
     -   angular_velocity: [-0.2858603894710541, -0.2917068898677826, -0.40120184421539307]
         color: red
@@ -7319,7 +7319,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.36s.png
     objects:
     -   angular_velocity: [-0.004482084419578314, 0.18528781831264496, -0.40153566002845764]
         color: red
@@ -7365,7 +7365,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.40s.png
     objects:
     -   angular_velocity: [0.1771443635225296, 0.1681966334581375, -0.40135419368743896]
         color: red
@@ -7411,7 +7411,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.44s.png
     objects:
     -   angular_velocity: [-0.1862100213766098, -0.18361134827136993, -0.4014328420162201]
         color: red
@@ -7457,7 +7457,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.48s.png
     objects:
     -   angular_velocity: [-0.005220482591539621, 0.15704332292079926, -0.40156689286231995]
         color: red
@@ -7503,7 +7503,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.52s.png
     objects:
     -   angular_velocity: [0.18233837187290192, 0.15731360018253326, -0.4013749659061432]
         color: red
@@ -7549,7 +7549,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.56s.png
     objects:
     -   angular_velocity: [-0.1980506181716919, -0.17742595076560974, -0.4014321267604828]
         color: red
@@ -7595,7 +7595,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.60s.png
     objects:
     -   angular_velocity: [0.0018018137197941542, 0.15874455869197845, -0.4015768766403198]
         color: red
@@ -7641,7 +7641,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.64s.png
     objects:
     -   angular_velocity: [0.19117096066474915, 0.14944389462471008, -0.4013827443122864]
         color: red
@@ -7687,7 +7687,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.68s.png
     objects:
     -   angular_velocity: [-0.20818108320236206, -0.16908429563045502, -0.40143701434135437]
         color: red
@@ -7733,7 +7733,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.72s.png
     objects:
     -   angular_velocity: [0.009365000762045383, 0.159035786986351, -0.4015864431858063]
         color: red
@@ -7779,7 +7779,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.76s.png
     objects:
     -   angular_velocity: [0.19847628474235535, 0.1402786672115326, -0.40139201283454895]
         color: red
@@ -7825,7 +7825,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.80s.png
     objects:
     -   angular_velocity: [-0.2165401726961136, -0.15917690098285675, -0.4014452397823334]
         color: red
@@ -7871,7 +7871,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.84s.png
     objects:
     -   angular_velocity: [0.016977226361632347, 0.15849842131137848, -0.40159595012664795]
         color: red
@@ -7917,7 +7917,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.88s.png
     objects:
     -   angular_velocity: [0.20505118370056152, 0.13058170676231384, -0.401401549577713]
         color: red
@@ -7963,7 +7963,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.92s.png
     objects:
     -   angular_velocity: [-0.22406545281410217, -0.1486290544271469, -0.4014543294906616]
         color: red
@@ -8009,7 +8009,7 @@ scene:
         scale: [0.04, 1.0854797482341638, 0.6298470022237693]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_block_0051_0/imgs/human_block_0051_0_006.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_block_0051_0/imgs/human_block_0051_0_006.96s.png
     objects:
     -   angular_velocity: [0.02457553520798683, 0.1575089544057846, -0.40160542726516724]
         color: red

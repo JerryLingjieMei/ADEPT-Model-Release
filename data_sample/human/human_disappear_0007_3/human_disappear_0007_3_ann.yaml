@@ -5,7 +5,7 @@ camera:
     camera_theta: 20
 case_name: human_disappear_0007_3
 scene:
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.00s.png
     objects:
     -   angular_velocity: [0.0, 0.0, 0.0]
         color: brown
@@ -29,7 +29,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.04s.png
     objects:
     -   angular_velocity: [-0.009457438252866268, -0.010560653172433376, -1.082989365386311e-05]
         color: brown
@@ -53,7 +53,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.08s.png
     objects:
     -   angular_velocity: [-0.01291124802082777, -0.025048524141311646, -2.6851698748942e-06]
         color: brown
@@ -77,7 +77,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.12s.png
     objects:
     -   angular_velocity: [0.015143581666052341, 0.038364287465810776, 3.058286665691412e-06]
         color: brown
@@ -101,7 +101,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.16s.png
     objects:
     -   angular_velocity: [0.027463965117931366, -0.004934296477586031, 1.3497151485353243e-06]
         color: brown
@@ -125,7 +125,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.20s.png
     objects:
     -   angular_velocity: [-0.031045028939843178, 0.029995668679475784, 5.163276000530459e-06]
         color: brown
@@ -149,7 +149,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.24s.png
     objects:
     -   angular_velocity: [0.0298947524279356, -0.014641277492046356, 4.772236934513785e-05]
         color: brown
@@ -173,7 +173,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.28s.png
     objects:
     -   angular_velocity: [-0.009926127269864082, 0.007460716646164656, 4.078098754689563e-06]
         color: brown
@@ -197,7 +197,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.32s.png
     objects:
     -   angular_velocity: [0.05301820859313011, 0.03693968057632446, 7.913894660305232e-05]
         color: brown
@@ -221,7 +221,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.36s.png
     objects:
     -   angular_velocity: [0.010954516008496284, -0.056057266891002655, -2.15696454688441e-05]
         color: brown
@@ -245,7 +245,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.40s.png
     objects:
     -   angular_velocity: [0.014184336178004742, 0.037788987159729004, 1.1348505722708069e-05]
         color: brown
@@ -269,7 +269,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.44s.png
     objects:
     -   angular_velocity: [-0.013014053925871849, -0.05182187259197235, 1.3382893939706264e-06]
         color: brown
@@ -293,7 +293,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.48s.png
     objects:
     -   angular_velocity: [0.012723579071462154, 0.04375069960951805, -2.051311184914084e-06]
         color: brown
@@ -317,7 +317,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.52s.png
     objects:
     -   angular_velocity: [-0.01178902480751276, -0.011521540582180023, -1.6082942238426767e-05]
         color: brown
@@ -341,7 +341,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.56s.png
     objects:
     -   angular_velocity: [-0.010296824388206005, 0.01056049857288599, 3.5471512660478766e-07]
         color: brown
@@ -365,7 +365,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.60s.png
     objects:
     -   angular_velocity: [0.011560308746993542, -0.01059055421501398, 1.1721910595952068e-05]
         color: brown
@@ -389,7 +389,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.64s.png
     objects:
     -   angular_velocity: [0.025825588032603264, -0.0019080787897109985, 1.6448547057734686e-06]
         color: brown
@@ -413,7 +413,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.68s.png
     objects:
     -   angular_velocity: [-0.03222648799419403, 0.032956041395664215, -1.8335383629164426e-06]
         color: brown
@@ -437,7 +437,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.72s.png
     objects:
     -   angular_velocity: [0.02996138483285904, -0.013637631200253963, 5.9623558627208695e-05]
         color: brown
@@ -461,7 +461,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.76s.png
     objects:
     -   angular_velocity: [-0.010102324187755585, 0.007521681021898985, -9.301976433562231e-08]
         color: brown
@@ -485,7 +485,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.80s.png
     objects:
     -   angular_velocity: [0.0419774167239666, 0.020187990739941597, 4.41251540905796e-05]
         color: brown
@@ -509,7 +509,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.84s.png
     objects:
     -   angular_velocity: [-0.017287876456975937, -0.01526540145277977, -1.4510647815768607e-05]
         color: brown
@@ -533,7 +533,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.88s.png
     objects:
     -   angular_velocity: [-0.0174120906740427, -0.015244712121784687, -8.1989674072247e-06]
         color: brown
@@ -557,7 +557,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.92s.png
     objects:
     -   angular_velocity: [-0.01749665103852749, -0.015257596969604492, -1.908568492581253e-06]
         color: brown
@@ -581,7 +581,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_000.96s.png
     objects:
     -   angular_velocity: [-0.01469212956726551, 0.029501406475901604, -3.824293344223406e-06]
         color: brown
@@ -605,7 +605,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.00s.png
     objects:
     -   angular_velocity: [-0.008746743202209473, -0.03372649848461151, 9.25587073652423e-08]
         color: brown
@@ -629,7 +629,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.04s.png
     objects:
     -   angular_velocity: [0.013019401580095291, 0.05335890129208565, 1.5531379176536575e-05]
         color: brown
@@ -653,7 +653,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.08s.png
     objects:
     -   angular_velocity: [-0.012849018909037113, -0.04270092025399208, -1.563919613545295e-05]
         color: brown
@@ -677,7 +677,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.12s.png
     objects:
     -   angular_velocity: [0.0117809372022748, 0.012704400345683098, -7.704746167291887e-06]
         color: brown
@@ -701,7 +701,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.16s.png
     objects:
     -   angular_velocity: [0.010290134698152542, -0.00970553420484066, 4.57592841485166e-06]
         color: brown
@@ -725,7 +725,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.20s.png
     objects:
     -   angular_velocity: [-0.043145980685949326, -0.021802235394716263, 2.7018937544198707e-05]
         color: brown
@@ -749,7 +749,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.24s.png
     objects:
     -   angular_velocity: [-0.050354886800050735, 0.02424413152039051, -3.600880518206395e-05]
         color: brown
@@ -773,7 +773,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.28s.png
     objects:
     -   angular_velocity: [0.03444940596818924, -0.017827702686190605, -1.8421156710246578e-05]
         color: brown
@@ -797,7 +797,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.32s.png
     objects:
     -   angular_velocity: [-0.03354404494166374, 0.018951401114463806, -2.1859830667381175e-05]
         color: brown
@@ -821,7 +821,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.36s.png
     objects:
     -   angular_velocity: [0.034002359956502914, -0.017799735069274902, -1.4481515790976118e-05]
         color: brown
@@ -845,7 +845,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.40s.png
     objects:
     -   angular_velocity: [-0.03385118395090103, 0.018880333751440048, -2.5511175408610143e-05]
         color: brown
@@ -869,7 +869,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.44s.png
     objects:
     -   angular_velocity: [0.03384992852807045, -0.017969699576497078, -1.15632083179662e-05]
         color: brown
@@ -893,7 +893,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.48s.png
     objects:
     -   angular_velocity: [-0.03395349159836769, 0.018696054816246033, -2.795617183437571e-05]
         color: brown
@@ -917,7 +917,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.52s.png
     objects:
     -   angular_velocity: [0.03382083401083946, -0.0181693434715271, -9.832975592871662e-06]
         color: brown
@@ -941,7 +941,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.56s.png
     objects:
     -   angular_velocity: [-0.033964741975069046, 0.018523072823882103, -2.9216493203421123e-05]
         color: brown
@@ -965,7 +965,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.60s.png
     objects:
     -   angular_velocity: [0.033837322145700455, -0.018319623544812202, -9.080783456738573e-06]
         color: brown
@@ -989,7 +989,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.64s.png
     objects:
     -   angular_velocity: [-0.033948078751564026, 0.018410861492156982, -2.963324004667811e-05]
         color: brown
@@ -1013,7 +1013,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.68s.png
     objects:
     -   angular_velocity: [0.03385987877845764, -0.018401795998215675, -8.942825843405444e-06]
         color: brown
@@ -1037,7 +1037,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.72s.png
     objects:
     -   angular_velocity: [-0.03393196314573288, 0.01836041919887066, -2.9596654712804593e-05]
         color: brown
@@ -1061,7 +1061,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.76s.png
     objects:
     -   angular_velocity: [0.033873919397592545, -0.018429607152938843, -9.085322744795121e-06]
         color: brown
@@ -1085,7 +1085,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.80s.png
     objects:
     -   angular_velocity: [-0.03392461687326431, 0.018351944163441658, -2.9401786378002726e-05]
         color: brown
@@ -1109,7 +1109,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.84s.png
     objects:
     -   angular_velocity: [0.03387807309627533, -0.01842626929283142, -9.286799468100071e-06]
         color: brown
@@ -1133,7 +1133,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.88s.png
     objects:
     -   angular_velocity: [-0.03392487391829491, 0.018363436684012413, -2.9214725145720877e-05]
         color: brown
@@ -1157,7 +1157,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.92s.png
     objects:
     -   angular_velocity: [0.033875953406095505, -0.01841147430241108, -9.440684152650647e-06]
         color: brown
@@ -1181,7 +1181,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_001.96s.png
     objects:
     -   angular_velocity: [-0.033928923308849335, 0.018379246816039085, -2.9097203878336586e-05]
         color: brown
@@ -1205,7 +1205,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.00s.png
     objects:
     -   angular_velocity: [0.03387156501412392, -0.018397027626633644, -9.521487299934961e-06]
         color: brown
@@ -1229,7 +1229,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.04s.png
     objects:
     -   angular_velocity: [-0.033933546394109726, 0.01839151419699192, -2.9049557269900106e-05]
         color: brown
@@ -1253,7 +1253,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.08s.png
     objects:
     -   angular_velocity: [0.03386751562356949, -0.01838761568069458, -9.544003660266753e-06]
         color: brown
@@ -1277,7 +1277,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.12s.png
     objects:
     -   angular_velocity: [-0.033937036991119385, 0.01839820109307766, -2.9047530915704556e-05]
         color: brown
@@ -1301,7 +1301,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.16s.png
     objects:
     -   angular_velocity: [0.03386487439274788, -0.018383454531431198, -9.534483069728594e-06]
         color: brown
@@ -1325,7 +1325,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.20s.png
     objects:
     -   angular_velocity: [-0.03393898159265518, 0.018400337547063828, -2.9065429771435447e-05]
         color: brown
@@ -1349,7 +1349,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.24s.png
     objects:
     -   angular_velocity: [0.033863652497529984, -0.01838286779820919, -9.514616067463066e-06]
         color: brown
@@ -1373,7 +1373,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.28s.png
     objects:
     -   angular_velocity: [-0.03393968194723129, 0.018399877473711967, -2.908593523898162e-05]
         color: brown
@@ -1397,7 +1397,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.32s.png
     objects:
     -   angular_velocity: [0.033863406628370285, -0.01838395744562149, -9.497029168414883e-06]
         color: brown
@@ -1421,7 +1421,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.36s.png
     objects:
     -   angular_velocity: [-0.03393964841961861, 0.01839849166572094, -2.9100681786076166e-05]
         color: brown
@@ -1445,7 +1445,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.40s.png
     objects:
     -   angular_velocity: [0.03386363387107849, -0.018385376781225204, -9.486253475188278e-06]
         color: brown
@@ -1469,7 +1469,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.44s.png
     objects:
     -   angular_velocity: [-0.03393934294581413, 0.01839718595147133, -2.9108330636518076e-05]
         color: brown
@@ -1493,7 +1493,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.48s.png
     objects:
     -   angular_velocity: [0.03386398032307625, -0.01838645711541176, -9.481939741817769e-06]
         color: brown
@@ -1517,7 +1517,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.52s.png
     objects:
     -   angular_velocity: [-0.03393902629613876, 0.018396347761154175, -2.9110342438798398e-05]
         color: brown
@@ -1541,7 +1541,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.56s.png
     objects:
     -   angular_velocity: [0.033864255994558334, -0.01838703639805317, -9.48158685787348e-06]
         color: brown
@@ -1565,7 +1565,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.60s.png
     objects:
     -   angular_velocity: [-0.03393881767988205, 0.018395978957414627, -2.910943476308603e-05]
         color: brown
@@ -1589,7 +1589,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.64s.png
     objects:
     -   angular_velocity: [0.03386441618204117, -0.018387211486697197, -9.482990208198316e-06]
         color: brown
@@ -1613,7 +1613,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.68s.png
     objects:
     -   angular_velocity: [-0.03393872454762459, 0.0183959249407053, -2.9107663067406975e-05]
         color: brown
@@ -1637,7 +1637,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.72s.png
     objects:
     -   angular_velocity: [0.03386446833610535, -0.018387161195278168, -9.484753718425054e-06]
         color: brown
@@ -1661,7 +1661,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.76s.png
     objects:
     -   angular_velocity: [-0.03393871337175369, 0.01839601621031761, -2.9106115107424557e-05]
         color: brown
@@ -1685,7 +1685,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.80s.png
     objects:
     -   angular_velocity: [0.03386446461081505, -0.01838703267276287, -9.485955160926096e-06]
         color: brown
@@ -1709,7 +1709,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.84s.png
     objects:
     -   angular_velocity: [-0.03393873944878578, 0.018396135419607162, -2.9105083740432747e-05]
         color: brown
@@ -1733,7 +1733,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.88s.png
     objects:
     -   angular_velocity: [0.03386443853378296, -0.01838691346347332, -9.486569979344495e-06]
         color: brown
@@ -1757,7 +1757,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.92s.png
     objects:
     -   angular_velocity: [-0.033938776701688766, 0.018396222963929176, -2.9104763598297723e-05]
         color: brown
@@ -1781,7 +1781,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_002.96s.png
     objects:
     -   angular_velocity: [0.03386441245675087, -0.018386833369731903, -9.486755516263656e-06]
         color: brown
@@ -1805,7 +1805,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.00s.png
     objects:
     -   angular_velocity: [-0.033938802778720856, 0.018396267667412758, -2.9104750865371898e-05]
         color: brown
@@ -1829,7 +1829,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.04s.png
     objects:
     -   angular_velocity: [0.033864397555589676, -0.01838679611682892, -9.486736416874919e-06]
         color: brown
@@ -1853,7 +1853,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.08s.png
     objects:
     -   angular_velocity: [-0.03393882140517235, 0.018396275117993355, -2.9104912755428813e-05]
         color: brown
@@ -1877,7 +1877,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.12s.png
     objects:
     -   angular_velocity: [0.03386439383029938, -0.018386784940958023, -9.486641829425935e-06]
         color: brown
@@ -1901,7 +1901,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.16s.png
     objects:
     -   angular_velocity: [-0.033938825130462646, 0.018396267667412758, -2.9105134672136046e-05]
         color: brown
@@ -1925,7 +1925,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.20s.png
     objects:
     -   angular_velocity: [0.03386439383029938, -0.01838678866624832, -9.486421731708106e-06]
         color: brown
@@ -1949,7 +1949,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.24s.png
     objects:
     -   angular_velocity: [-0.033938828855752945, 0.018396249040961266, -2.910513103415724e-05]
         color: brown
@@ -1973,7 +1973,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.28s.png
     objects:
     -   angular_velocity: [0.033864401280879974, -0.01838679239153862, -9.486332601227332e-06]
         color: brown
@@ -1997,7 +1997,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.32s.png
     objects:
     -   angular_velocity: [-0.03393883258104324, 0.01839623413980007, -2.9105205612722784e-05]
         color: brown
@@ -2021,7 +2021,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.36s.png
     objects:
     -   angular_velocity: [0.03386440500617027, -0.01838679425418377, -9.486358067078982e-06]
         color: brown
@@ -2045,7 +2045,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.40s.png
     objects:
     -   angular_velocity: [-0.03393883258104324, 0.018396219238638878, -2.9105258363415487e-05]
         color: brown
@@ -2069,7 +2069,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.44s.png
     objects:
     -   angular_velocity: [0.03386440873146057, -0.01838679425418377, -9.486344424658455e-06]
         color: brown
@@ -2093,7 +2093,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.48s.png
     objects:
     -   angular_velocity: [-0.03393883258104324, 0.01839620992541313, -2.9105109206284396e-05]
         color: brown
@@ -2117,7 +2117,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.52s.png
     objects:
     -   angular_velocity: [0.03386441618204117, -0.018386786803603172, -9.48622346186312e-06]
         color: brown
@@ -2141,7 +2141,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.56s.png
     objects:
     -   angular_velocity: [-0.03393883630633354, 0.018396204337477684, -2.9105103749316186e-05]
         color: brown
@@ -2165,7 +2165,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.60s.png
     objects:
     -   angular_velocity: [0.03386441990733147, -0.018386781215667725, -9.48620890994789e-06]
         color: brown
@@ -2189,7 +2189,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.64s.png
     objects:
     -   angular_velocity: [-0.03393884003162384, 0.018396196886897087, -2.910514740506187e-05]
         color: brown
@@ -2213,7 +2213,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.68s.png
     objects:
     -   angular_velocity: [0.033864423632621765, -0.018386775627732277, -9.486315320827998e-06]
         color: brown
@@ -2237,7 +2237,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.72s.png
     objects:
     -   angular_velocity: [0.014999784529209137, 0.03073856420814991, -0.0003504109045024961]
         color: brown
@@ -2261,7 +2261,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.76s.png
     objects:
     -   angular_velocity: [0.01523304171860218, -0.04378705844283104, -0.00036502801231108606]
         color: brown
@@ -2285,7 +2285,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.80s.png
     objects:
     -   angular_velocity: [-0.05743178352713585, 0.008420282043516636, -0.00039652269333601]
         color: brown
@@ -2309,7 +2309,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.84s.png
     objects:
     -   angular_velocity: [-0.028228813782334328, -0.01806413196027279, -0.00042393256444483995]
         color: brown
@@ -2333,7 +2333,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.88s.png
     objects:
     -   angular_velocity: [0.013062595389783382, 0.01365629956126213, -0.0003720504464581609]
         color: brown
@@ -2357,7 +2357,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.92s.png
     objects:
     -   angular_velocity: [-0.021605176851153374, -0.007176630198955536, -0.00037320717819966376]
         color: brown
@@ -2381,7 +2381,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_003.96s.png
     objects:
     -   angular_velocity: [-0.021609580144286156, -0.007112551014870405, -0.00038138931267894804]
         color: brown
@@ -2405,7 +2405,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.00s.png
     objects:
     -   angular_velocity: [-0.021646136417984962, -0.006996819283813238, -0.000389747554436326]
         color: brown
@@ -2429,7 +2429,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.04s.png
     objects:
     -   angular_velocity: [-0.04181316867470741, -0.020813163369894028, -0.00033120307489298284]
         color: brown
@@ -2453,7 +2453,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.08s.png
     objects:
     -   angular_velocity: [-0.04966720938682556, 0.025219310075044632, -0.0003883088647853583]
         color: brown
@@ -2477,7 +2477,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.12s.png
     objects:
     -   angular_velocity: [0.025221195071935654, -0.001281633973121643, -0.0003636000619735569]
         color: brown
@@ -2501,7 +2501,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.16s.png
     objects:
     -   angular_velocity: [-0.0409957654774189, 0.006513536442071199, -0.0003746523580048233]
         color: brown
@@ -2525,7 +2525,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.20s.png
     objects:
     -   angular_velocity: [-0.029706181958317757, -0.025364110246300697, -0.00039713832666166127]
         color: brown
@@ -2549,7 +2549,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.24s.png
     objects:
     -   angular_velocity: [-0.016634458675980568, -0.017405327409505844, -0.00037502602208405733]
         color: brown
@@ -2573,7 +2573,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.28s.png
     objects:
     -   angular_velocity: [-0.014489322900772095, 0.027791209518909454, -0.0003731571196112782]
         color: brown
@@ -2597,7 +2597,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.32s.png
     objects:
     -   angular_velocity: [-0.008422785438597202, -0.03454943373799324, -0.0003678393259178847]
         color: brown
@@ -2621,7 +2621,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.36s.png
     objects:
     -   angular_velocity: [0.01289945375174284, 0.052701666951179504, -0.0003556513402145356]
         color: brown
@@ -2645,7 +2645,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.40s.png
     objects:
     -   angular_velocity: [-0.01299662608653307, -0.04299352690577507, -0.00038218064582906663]
         color: brown
@@ -2669,7 +2669,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.44s.png
     objects:
     -   angular_velocity: [0.01360307727009058, 0.02694098837673664, -0.0003577015595510602]
         color: brown
@@ -2693,7 +2693,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.48s.png
     objects:
     -   angular_velocity: [0.01137821190059185, -0.044390350580215454, -0.0003893187968060374]
         color: brown
@@ -2717,7 +2717,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.52s.png
     objects:
     -   angular_velocity: [-0.038974739611148834, 0.013468557968735695, -0.00038714459515176713]
         color: brown
@@ -2741,7 +2741,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.56s.png
     objects:
     -   angular_velocity: [-0.010911655612289906, -0.010874634608626366, -0.00038675509858876467]
         color: brown
@@ -2765,7 +2765,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.60s.png
     objects:
     -   angular_velocity: [-0.00992361269891262, 0.010628167539834976, -0.00037026096833869815]
         color: brown
@@ -2789,7 +2789,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.64s.png
     objects:
     -   angular_velocity: [0.04327905550599098, 0.02203471213579178, -0.0002980795979965478]
         color: brown
@@ -2813,7 +2813,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.68s.png
     objects:
     -   angular_velocity: [0.032263532280921936, -0.015241386368870735, -0.00036594082484953105]
         color: brown
@@ -2837,7 +2837,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.72s.png
     objects:
     -   angular_velocity: [0.031662192195653915, 0.037986647337675095, -0.00033933387021534145]
         color: brown
@@ -2861,7 +2861,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.76s.png
     objects:
     -   angular_velocity: [0.03080456331372261, -0.011664490215480328, -0.0003665104741230607]
         color: brown
@@ -2885,7 +2885,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.80s.png
     objects:
     -   angular_velocity: [0.042133864015340805, 0.011934013105928898, -0.00033135851845145226]
         color: brown
@@ -2909,7 +2909,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.84s.png
     objects:
     -   angular_velocity: [-0.01371131930500269, -0.021518712863326073, -0.0003697540669236332]
         color: brown
@@ -2933,7 +2933,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.88s.png
     objects:
     -   angular_velocity: [0.008995367214083672, 0.03833278268575668, -0.00034445608616806567]
         color: brown
@@ -2957,7 +2957,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.92s.png
     objects:
     -   angular_velocity: [0.01324649341404438, -0.04928914085030556, -0.0003800860431510955]
         color: brown
@@ -2981,7 +2981,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_004.96s.png
     objects:
     -   angular_velocity: [0.012777444906532764, 0.04496920481324196, -0.0003676573687698692]
         color: brown
@@ -3005,7 +3005,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.00s.png
     objects:
     -   angular_velocity: [0.02651943825185299, -0.001672790152952075, -0.00036132411332800984]
         color: brown
@@ -3029,7 +3029,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.04s.png
     objects:
     -   angular_velocity: [-0.03996565565466881, 0.006123666651546955, -0.0003759188111871481]
         color: brown
@@ -3053,7 +3053,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.08s.png
     objects:
     -   angular_velocity: [-0.02906615659594536, -0.025780964642763138, -0.000399374112021178]
         color: brown
@@ -3077,7 +3077,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.12s.png
     objects:
     -   angular_velocity: [-0.016043545678257942, -0.017848221585154533, -0.0003755772195290774]
         color: brown
@@ -3101,7 +3101,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.16s.png
     objects:
     -   angular_velocity: [-0.01423355657607317, 0.02745460532605648, -0.0003717304498422891]
         color: brown
@@ -3125,7 +3125,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.20s.png
     objects:
     -   angular_velocity: [-0.008225707337260246, -0.03458024561405182, -0.00036771988379769027]
         color: brown
@@ -3149,7 +3149,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.24s.png
     objects:
     -   angular_velocity: [0.01294830720871687, 0.05267995223402977, -0.00035618949914351106]
         color: brown
@@ -3173,7 +3173,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.28s.png
     objects:
     -   angular_velocity: [-0.012998986057937145, -0.042918071150779724, -0.0003815029631368816]
         color: brown
@@ -3197,7 +3197,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.32s.png
     objects:
     -   angular_velocity: [0.013636544346809387, 0.027065349742770195, -0.0003582937642931938]
         color: brown
@@ -3221,7 +3221,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.36s.png
     objects:
     -   angular_velocity: [0.011357836425304413, -0.04426240548491478, -0.00038954574847593904]
         color: brown
@@ -3245,7 +3245,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.40s.png
     objects:
     -   angular_velocity: [-0.0389845035970211, 0.013609916903078556, -0.0003862431622110307]
         color: brown
@@ -3269,7 +3269,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.44s.png
     objects:
     -   angular_velocity: [-0.010922241024672985, -0.010758823715150356, -0.00038658149424009025]
         color: brown
@@ -3293,7 +3293,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.48s.png
     objects:
     -   angular_velocity: [-0.009927102364599705, 0.010712113231420517, -0.0003702053218148649]
         color: brown
@@ -3317,7 +3317,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.52s.png
     objects:
     -   angular_velocity: [0.04328431561589241, 0.022077251225709915, -0.00029814487788826227]
         color: brown
@@ -3341,7 +3341,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.56s.png
     objects:
     -   angular_velocity: [0.032236408442258835, -0.015208100900053978, -0.0003658801724668592]
         color: brown
@@ -3365,7 +3365,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.60s.png
     objects:
     -   angular_velocity: [0.03166203573346138, 0.038000915199518204, -0.0003391606151126325]
         color: brown
@@ -3389,7 +3389,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.64s.png
     objects:
     -   angular_velocity: [0.030793404206633568, -0.011666658334434032, -0.00036634757998399436]
         color: brown
@@ -3413,7 +3413,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.68s.png
     objects:
     -   angular_velocity: [0.04214439168572426, 0.011912785470485687, -0.0003310991160105914]
         color: brown
@@ -3437,7 +3437,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.72s.png
     objects:
     -   angular_velocity: [-0.0137172257527709, -0.021524013951420784, -0.00036984169855713844]
         color: brown
@@ -3461,7 +3461,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.76s.png
     objects:
     -   angular_velocity: [0.009011240676045418, 0.03831752762198448, -0.00034438425791449845]
         color: brown
@@ -3485,7 +3485,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.80s.png
     objects:
     -   angular_velocity: [0.013234985060989857, -0.049305517226457596, -0.00038007518742233515]
         color: brown
@@ -3509,7 +3509,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.84s.png
     objects:
     -   angular_velocity: [0.012795439921319485, 0.04495353251695633, -0.0003676034102682024]
         color: brown
@@ -3533,7 +3533,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.88s.png
     objects:
     -   angular_velocity: [0.026522625237703323, -0.001691092737019062, -0.0003612843865994364]
         color: brown
@@ -3557,7 +3557,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.92s.png
     objects:
     -   angular_velocity: [-0.03996022045612335, 0.006129547022283077, -0.0003759435785468668]
         color: brown
@@ -3581,7 +3581,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_005.96s.png
     objects:
     -   angular_velocity: [-0.029073990881443024, -0.025777898728847504, -0.0003993783029727638]
         color: brown
@@ -3605,7 +3605,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.00s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.00s.png
     objects:
     -   angular_velocity: [-0.01604682020843029, -0.017848210409283638, -0.00037556866300292313]
         color: brown
@@ -3629,7 +3629,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.04s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.04s.png
     objects:
     -   angular_velocity: [-0.01422499492764473, 0.027455700561404228, -0.0003717225044965744]
         color: brown
@@ -3653,7 +3653,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.08s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.08s.png
     objects:
     -   angular_velocity: [-0.010823951102793217, -0.011719879694283009, -0.0003876699774991721]
         color: brown
@@ -3677,7 +3677,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.12s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.12s.png
     objects:
     -   angular_velocity: [-0.009736495092511177, 0.010204088874161243, -0.00036981297307647765]
         color: brown
@@ -3701,7 +3701,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.16s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.16s.png
     objects:
     -   angular_velocity: [0.011998872272670269, -0.011186731047928333, -0.00035496437340043485]
         color: brown
@@ -3725,7 +3725,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.20s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.20s.png
     objects:
     -   angular_velocity: [-0.013235170394182205, 0.008443695493042469, -0.00036666973028331995]
         color: brown
@@ -3749,7 +3749,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.24s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.24s.png
     objects:
     -   angular_velocity: [0.012388908304274082, -0.010460392571985722, -0.0003570728295017034]
         color: brown
@@ -3773,7 +3773,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.28s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.28s.png
     objects:
     -   angular_velocity: [-0.012988613918423653, 0.009089342318475246, -0.0003648218116723001]
         color: brown
@@ -3797,7 +3797,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.32s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.32s.png
     objects:
     -   angular_velocity: [0.012546610087156296, -0.009921382181346416, -0.00035809382097795606]
         color: brown
@@ -3821,7 +3821,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.36s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.36s.png
     objects:
     -   angular_velocity: [-0.0128809604793787, 0.00950806587934494, -0.0003641009679995477]
         color: brown
@@ -3845,7 +3845,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.40s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.40s.png
     objects:
     -   angular_velocity: [0.012621251866221428, -0.009620057418942451, -0.00035834976006299257]
         color: brown
@@ -3869,7 +3869,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.44s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.44s.png
     objects:
     -   angular_velocity: [-0.012823466211557388, 0.009705194272100925, -0.00036401228862814605]
         color: brown
@@ -3893,7 +3893,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.48s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.48s.png
     objects:
     -   angular_velocity: [0.012666256166994572, -0.009509272873401642, -0.00035822667996399105]
         color: brown
@@ -3917,7 +3917,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.52s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.52s.png
     objects:
     -   angular_velocity: [-0.012784983962774277, 0.009750831872224808, -0.00036418208037503064]
         color: brown
@@ -3941,7 +3941,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.56s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.56s.png
     objects:
     -   angular_velocity: [0.012698238715529442, -0.009510239586234093, -0.00035800051409751177]
         color: brown
@@ -3965,7 +3965,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.60s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.60s.png
     objects:
     -   angular_velocity: [-0.012757057324051857, 0.009721572510898113, -0.00036438708775676787]
         color: brown
@@ -3989,7 +3989,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.64s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.64s.png
     objects:
     -   angular_velocity: [0.012720994651317596, -0.00955518614500761, -0.00035781358019448817]
         color: brown
@@ -4013,7 +4013,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.68s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.68s.png
     objects:
     -   angular_velocity: [-0.012737862765789032, 0.009672627784311771, -0.0003645309479907155]
         color: brown
@@ -4037,7 +4037,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.72s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.72s.png
     objects:
     -   angular_velocity: [0.01273559220135212, -0.009602456353604794, -0.0003577082243282348]
         color: brown
@@ -4061,7 +4061,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.76s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.76s.png
     objects:
     -   angular_velocity: [-0.012726244516670704, 0.009632677771151066, -0.00036459806142374873]
         color: brown
@@ -4085,7 +4085,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.80s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.80s.png
     objects:
     -   angular_velocity: [0.012743469327688217, -0.009634561836719513, -0.0003576730377972126]
         color: brown
@@ -4109,7 +4109,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.84s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.84s.png
     objects:
     -   angular_velocity: [-0.01272040419280529, 0.009610220789909363, -0.00036460929550230503]
         color: brown
@@ -4133,7 +4133,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.88s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.88s.png
     objects:
     -   angular_velocity: [0.012746630236506462, -0.009649590589106083, -0.0003576791496016085]
         color: brown
@@ -4157,7 +4157,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.92s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.92s.png
     objects:
     -   angular_velocity: [-0.012718254700303078, 0.009602760896086693, -0.00036459267721511424]
         color: brown
@@ -4181,7 +4181,7 @@ scene:
         scale: [0.039999980926513676, 0.8806413553412282, 0.7425174065873826]
         type: Occluder
         velocity: [0.0, 0.0, 0.0]
--   image_path: /data/vision/billf/scratch/jerrymei/newIntPhys/render/output/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.96s.png
+-   image_path: /root/adept-model/data_sample/human/human_disappear_0007_3/imgs/human_disappear_0007_3_006.96s.png
     objects:
     -   angular_velocity: [0.012747068889439106, -0.00965256616473198, -0.00035770045360550284]
         color: brown

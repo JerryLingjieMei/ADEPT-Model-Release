@@ -1,1 +1,5 @@
 data-sample/** filter=lfs diff=lfs merge=lfs -text
+data_sample/ filter=lfs diff=lfs merge=lfs -text
+data_sample/human filter=lfs diff=lfs merge=lfs -text
+data_sample/int_phys filter=lfs diff=lfs merge=lfs -text
+data_sample/train filter=lfs diff=lfs merge=lfs -text

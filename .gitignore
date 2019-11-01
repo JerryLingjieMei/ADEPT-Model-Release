@@ -206,3 +206,6 @@ s**ftp-config.json
 
 .idea**output/**
 **output/
+data/**
+experiments/int_phys_physics.yaml
+*.sublime*

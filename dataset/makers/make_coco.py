@@ -33,6 +33,8 @@ def main(case_id, case_name, case_folder, args):
 
         for obj in image.objects:
             obj.segmentation = mask2contour(mask_util.decode(obj.mask))
+            
+            if len(obj.segmentation) >0:
             # otherwise could be interpreted as a bbox
             if len(obj.segmentation) == 4:
                 drop_image = True

@@ -79,11 +79,21 @@ def run_updater(cfg, args, case_name):
     plot_case(images, score["all"], score["raw"], score["location"], scenes[1:], [None] * len(images),
               case_name, output_folder)
 
+    # os.system(
+    #     '/data/vision/billf/object-properties/local/bin/ffmpeg -nostdin -r %d -pattern_type glob -i \'%s/%s.png\' '
+    #     '-pix_fmt yuv420p -vcodec libx264 -crf 0 %s.mp4 -y'
+    #     % (15, "{}/imgs".format(output_folder), "{}_???".format(case_name),
+    #        "{}/{}_summary".format(output_folder, case_name)))
+    # print('ffmpeg -nostdin -r %d -pattern_type glob -i \'%s/%s.png\' '
+    # '-pix_fmt yuv420p -vcodec libx264 -crf 0 %s.mp4 -y'
+    # % (15, "{}/imgs".format(output_folder), "{}_???".format(case_name),
+    #    "{}/{}_summary".format(output_folder, case_name)))
     os.system(
-        '/data/vision/billf/object-properties/local/bin/ffmpeg -nostdin -r %d -pattern_type glob -i \'%s/%s.png\' '
-        '-pix_fmt yuv420p -vcodec libx264 -crf 0 %s.mp4 -y'
-        % (15, "{}/imgs".format(output_folder), "{}_???".format(case_name),
-           "{}/{}_summary".format(output_folder, case_name)))
+    'ffmpeg -nostdin -r %d -pattern_type glob -i \'%s/%s.png\' '
+    '-pix_fmt yuv420p -vcodec libx264 -crf 0 %s.mp4 -y'
+    % (15, "{}/imgs".format(output_folder), "{}_???".format(case_name),
+       "{}/{}_summary".format(output_folder, case_name)))
+
 
 
 def main(args):
@@ -116,6 +126,7 @@ def main(args):
         p = Process(target=run_updater, args=(cfg, args, case_name))
         processes.append(p)
         p.start()
+        break  #ERASE
     for p in processes:
         p.join()
 
