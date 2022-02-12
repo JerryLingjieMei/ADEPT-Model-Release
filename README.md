@@ -7,7 +7,7 @@ Modeling Expectation Violation in Intuitive Physics with Coarse Probabilistic Ob
 
 Kevin Smith*, Lingjie Mei*, Shunyu Yao, Jiajun Wu, Elizabeth S. Spelke, Joshua B. Tenenbaum, Tomer Ullman  (* indicates equal contribution)
 
-Preprint
+NeurIPS 2019, CogSci 2020
 
 [Paper](http://physadept.csail.mit.edu/papers/adept.pdf) [BibTeX](http://physadept.csail.mit.edu/bibtex/adept.bib) [Website](http://physadept.csail.mit.edu/)
 

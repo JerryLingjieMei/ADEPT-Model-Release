@@ -211,3 +211,4 @@ experiments/int_phys_physics.yaml
 *.sublime*
 
 .idea
+doc/
